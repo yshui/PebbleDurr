@@ -1,0 +1,25 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        "health"
+    ],
+    "companyName": "yshuiv7@gmail.com",
+    "enableMultiJS": true,
+    "longName": "Durr",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Durr",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "7acb61fe-d913-4ae5-bd42-62fe661524b8",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
